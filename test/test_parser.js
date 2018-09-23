@@ -2,7 +2,6 @@
 
 var expect			= require('expect.js');
 var escodegen		= require('escodegen');
-var astUtil			= require('i18nc-ast').util;
 var parser			= require('../lib/parser');
 var i18nGenerator	= require('../lib/generator');
 
